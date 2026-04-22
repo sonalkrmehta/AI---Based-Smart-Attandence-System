@@ -1,2 +1,2 @@
 # AI---Based-Smart-Attandence-System
-# By Sonal Kumar
+# By Sonal Kumar Mehta
